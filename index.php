@@ -8,8 +8,8 @@
   </head>
   <body>
     <div class="row">
-      <div class="col-md-4 card shadow">
-        <img src="/logo.png" class="img-fluid">
+      <div class="col-md-4 card shadow justify-content-center">
+        <img src="/logo.png" class="img-fluid" width="100">
         <h3>Where do you want to go today?</h3>
       </div>
     </div>
